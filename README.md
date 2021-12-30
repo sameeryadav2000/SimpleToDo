@@ -34,9 +34,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-  It was my first time working with Android Studio and Kotlin. So, basically all the things I did were a challenge to me. However, I am excited to learn more about Android Studio.
+It was my first time working with Android Studio and Kotlin. So, basically all the things I did were a challenge to me. However, I am excited to learn more about Android Studio.
 
 ## License
 
